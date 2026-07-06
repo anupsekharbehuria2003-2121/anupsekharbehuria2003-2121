@@ -105,13 +105,14 @@
 
 ---
 
-# 💡 Favorite Quote
 
-> **"First, solve the problem. Then, write the code."**
->
-> — John Johnson
+## 💭 Developer Quote
 
----
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</p>
 
 <div align="center">
 
