@@ -60,14 +60,18 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anupsekharbehuria2003-2121&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupsekharbehuria2003-2121&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anupsekharbehuria2003-2121&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anupsekharbehuria2003-2121&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anupsekharbehuria2003-2121&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anupsekharbehuria2003-2121&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupsekharbehuria2003-2121&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anupsekharbehuria2003-2121&theme=github_dark&utcOffset=5.5" />
+</p>
 ---
 
 # 🔥 GitHub Streak
@@ -88,11 +92,9 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anupsekharbehuria2003-2121&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anupsekharbehuria2003-2121&theme=onedark&no-frame=true"/>
+</p>
 
 ---
 
