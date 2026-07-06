@@ -95,13 +95,11 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anupsekharbehuria2003-2121/anupsekharbehuria2003-2121/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anupsekharbehuria2003-2121/anupsekharbehuria2003-2121/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
